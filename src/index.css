@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:linear-gradient(to right, rgb(0, 45, 255), rgb(255, 47, 52));
+  height: 1200px;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+
+	cursor:pointer;
+}
+
+.middle {
+	text-align: center;
+}
